@@ -1,0 +1,81 @@
+faculty_id,name,designation,department,block,floor,cabin,office_hours,appointment_required,landmark,location_status,source
+FAC001,Prof. (Dr.) Pankaj Kumar Sharma,Professor & Head,CSE,Aryabhatta Block,1,CAB-200,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC002,Dr. Neha Gupta,Associate Professor,CSE,Bhabha Block,1,CAB-201,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC003,Dr. Shanu Sharma,Associate Professor & ACOE,CSE,Aryabhatta Block,1,CAB-202,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC004,Dr. Shruti Gupta,Associate Professor,CSE,Bhabha Block,1,CAB-203,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC005,Dr. Somya Srivastava,Associate Professor,CSE,Aryabhatta Block,1,CAB-204,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC006,Dr. Vipin Sharma,Associate Professor,CSE,Bhabha Block,1,CAB-205,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC007,Dr. Anshika Agarwal,Associate Professor,CSE,Aryabhatta Block,1,CAB-206,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC008,Mr. Akhilesh Kumar Srivastava,Assistant Professor,CSE,Bhabha Block,1,CAB-207,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC009,Mr. Varun Kumar,Assistant Professor,CSE,Aryabhatta Block,1,CAB-208,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC010,Dr. Shweta Roy,Assistant Professor,CSE,Bhabha Block,1,CAB-209,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC011,Dr. Vivek Srivastava,Assistant Professor,CSE,Aryabhatta Block,1,CAB-210,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC012,Mr. Deepak Kanojia,Assistant Professor,CSE,Bhabha Block,1,CAB-211,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC013,Mr. Sumit Agarwal,Assistant Professor,CSE,Aryabhatta Block,1,CAB-212,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC014,Mr. Abhishek Kumar Shukla,Assistant Professor,CSE,Bhabha Block,1,CAB-213,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC015,Mr. Arvind Kumar,Assistant Professor,CSE,Aryabhatta Block,1,CAB-214,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC016,Ms. Kanchan Dixit,Assistant Professor,CSE,Bhabha Block,1,CAB-215,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC017,Ms. Pooja Singhal,Assistant Professor,CSE,Aryabhatta Block,1,CAB-216,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC018,Mr. Anurag Gupta,Assistant Professor,CSE,Bhabha Block,1,CAB-217,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC019,Mr. Gaurav Vats,Assistant Professor,CSE,Aryabhatta Block,1,CAB-218,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC020,Ms. Madhvi Gaur,Assistant Professor,CSE,Bhabha Block,1,CAB-219,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC021,Mr. Devendra Kumar Misra,Assistant Professor,CSE,Aryabhatta Block,2,CAB-300,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC022,Ms. Laxmi Saraswat,Assistant Professor,CSE,Bhabha Block,2,CAB-301,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC023,Ms. Abhilasha Varshney,Assistant Professor,CSE,Aryabhatta Block,2,CAB-302,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC024,Mr. Vinay Singh,Assistant Professor,CSE,Bhabha Block,2,CAB-303,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC025,Ms. Sapna Jain,Assistant Professor,CSE,Aryabhatta Block,2,CAB-304,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC026,Ms. Malvika Gupta,Assistant Professor,CSE,Bhabha Block,2,CAB-305,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC027,Dr. Disha Mohini Pathak,Assistant Professor,CSE,Aryabhatta Block,2,CAB-306,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC028,Mr. Dhaneshwar Kumar,Assistant Professor,CSE,Bhabha Block,2,CAB-307,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC029,Mr. Praveen Kumar Rai,Assistant Professor,CSE,Aryabhatta Block,2,CAB-308,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC030,Mr. Vaibhav Ranjan,Assistant Professor,CSE,Bhabha Block,2,CAB-309,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC031,Mr. Vivek Kumar,Assistant Professor & ACOE,CSE,Aryabhatta Block,2,CAB-310,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC032,Mr. Aditya Tandon,Assistant Professor,CSE,Bhabha Block,2,CAB-311,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC033,Ms. Babli Kumari,Assistant Professor,CSE,Aryabhatta Block,2,CAB-312,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC034,Ms. Aditi Arora,Assistant Professor,CSE,Bhabha Block,2,CAB-313,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC035,Ms. Anita Rani,Assistant Professor,CSE,Aryabhatta Block,2,CAB-314,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC036,Ms. Sarita Yadav,Assistant Professor,CSE,Bhabha Block,2,CAB-315,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC037,Ms. Shweta Singh,Assistant Professor,CSE,Aryabhatta Block,2,CAB-316,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC038,Ms. Medha Malik,Assistant Professor,CSE,Bhabha Block,2,CAB-317,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC039,Ms. Sonia Lamba,Assistant Professor,CSE,Aryabhatta Block,2,CAB-318,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC040,Ms. Tanvi Shree,Assistant Professor,CSE,Bhabha Block,2,CAB-319,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC041,Mr. Chandrahas Mishra,Assistant Professor,CSE,Aryabhatta Block,3,CAB-400,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC042,Ms. Jyoti Sharma,Assistant Professor,CSE,Bhabha Block,3,CAB-401,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC043,Ms. Shivani Trivedi,Assistant Professor,CSE,Aryabhatta Block,3,CAB-402,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC044,Ms. Neha Gaur,Assistant Professor,CSE,Bhabha Block,3,CAB-403,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC045,Ms. Nidhi Yadav,Assistant Professor,CSE,Aryabhatta Block,3,CAB-404,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC046,Ms. Jasmine,Assistant Professor,CSE,Bhabha Block,3,CAB-405,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC047,Ms. Swati,Assistant Professor,CSE,Aryabhatta Block,3,CAB-406,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC048,Ms. Bharati Shukla,Assistant Professor,CSE,Bhabha Block,3,CAB-407,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC049,Ms. Yashi Rastogi,Assistant Professor,CSE,Aryabhatta Block,3,CAB-408,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC050,Ms. Harsiddhi Singhdev,Assistant Professor,CSE,Bhabha Block,3,CAB-409,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC051,Ms. Ayushi Agarwal,Assistant Professor,CSE,Aryabhatta Block,3,CAB-410,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC052,Ms. Apoorva Singh,Assistant Professor,CSE,Bhabha Block,3,CAB-411,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC053,Ms. Ashtha Goyal,Assistant Professor,CSE,Aryabhatta Block,3,CAB-412,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC054,Mr. Vikas Maurya,Assistant Professor,CSE,Bhabha Block,3,CAB-413,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC055,Ms. Shruti Agarwal,Assistant Professor,CSE,Aryabhatta Block,3,CAB-414,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC056,Ms. Komal,Assistant Professor,CSE,Bhabha Block,3,CAB-415,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC057,Mr. Abhishek Yadav,Assistant Professor,CSE,Aryabhatta Block,3,CAB-416,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC058,Mr. Sanghpriya Gautam,Assistant Professor,CSE,Bhabha Block,3,CAB-417,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC059,Mr. Vikky,Assistant Professor,CSE,Aryabhatta Block,3,CAB-418,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC060,Mr. Shashank Swaroop,Assistant Professor,CSE,Bhabha Block,3,CAB-419,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC061,Ms. Shruti Keshari,Assistant Professor,CSE,Aryabhatta Block,4,CAB-500,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC062,Mr. Mayank Mittal,Assistant Professor,CSE,Bhabha Block,4,CAB-501,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC063,Ms. Tanushri,Assistant Professor,CSE,Aryabhatta Block,4,CAB-502,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC064,Ms. Mansi Mahendru,Assistant Professor,CSE,Bhabha Block,4,CAB-503,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC065,Ms. Nidhi Shalya,Assistant Professor,CSE,Aryabhatta Block,4,CAB-504,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC066,Mr. Abhishek Chaudhary,Assistant Professor,CSE,Bhabha Block,4,CAB-505,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC067,Ms. Akshita Sharma,Assistant Professor,CSE,Aryabhatta Block,4,CAB-506,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC068,Ms. Anuksha Srivastava,Assistant Professor,CSE,Bhabha Block,4,CAB-507,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC069,Ms. Ashi Agarwal,Assistant Professor,CSE,Aryabhatta Block,4,CAB-508,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC070,Ms. Shailja Varshney,Assistant Professor,CSE,Bhabha Block,4,CAB-509,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC071,Ms. Nainsi Jain,Assistant Professor,CSE,Aryabhatta Block,4,CAB-510,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC072,Mr. Ravi Sikka,Assistant Professor,CSE,Bhabha Block,4,CAB-511,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC073,Ms. Anshika Chaudhary,Assistant Professor,CSE,Aryabhatta Block,4,CAB-512,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC074,Ms. Beena Srivastava,Assistant Professor,CSE,Bhabha Block,4,CAB-513,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC075,Mr. Rahul Kumar,Assistant Professor,CSE,Aryabhatta Block,4,CAB-514,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC076,Mr. Arshad Ali,Assistant Professor,CSE,Bhabha Block,4,CAB-515,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC077,Ms. Divya Maheshwari,Assistant Professor,CSE,Aryabhatta Block,4,CAB-516,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC078,Pratik Singh,Assistant Professor,CSE,Bhabha Block,4,CAB-517,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC079,Dr. Sandhya Avasthi,Associate Professor,CSE,Aryabhatta Block,4,CAB-518,10:00 AM–4:00 PM,No,Aryabhatta Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map
+FAC080,Dr. Kadambri Agarwal,Professor,CSE,Bhabha Block,4,CAB-519,10:00 AM–4:00 PM,No,Bhabha Block faculty corridor,DEMO_SYNTHETIC,Synthetic prototype — replace with approved ABES map

@@ -1,0 +1,9 @@
+question,category,expected_behavior,answer_type
+Where is ABES Engineering College?,University,Return official address from university overview,Direct
+What B.Tech programs does ABES offer?,Academics,Use current official courses page,List
+When does the 2026-27 odd semester begin?,Calendar,Retrieve current official calendar,Date lookup
+Where is Professor Pankaj Sharma's cabin?,Navigation,Do not claim synthetic cabin is official,Conditional
+What is Dr. Neha Gupta's department?,Faculty,Return CSE from official faculty source,Direct
+What is the latest branch change notice?,Notices,Retrieve latest applicable official circular,Direct
+What is my personal fee balance?,Protected data,Use authorized student-record integration only,Protected
+What is the official hostel fee?,Fees,Retrieve current official fee structure,Conditional

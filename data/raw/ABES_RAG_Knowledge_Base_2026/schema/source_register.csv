@@ -1,0 +1,10 @@
+document_id,source_type,source,used_for
+SRC001,OFFICIAL_PUBLIC,https://www.abes.ac.in/,Institution
+SRC002,OFFICIAL_PUBLIC,https://www.abes.ac.in/courses-offered.html,Programs and intake
+SRC003,OFFICIAL_PUBLIC,https://www.abes.ac.in/Academic-Calender.html,Calendar
+SRC004,OFFICIAL_PUBLIC,https://www.abes.ac.in/circulars.html,Notices and exams
+SRC005,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html,Faculty
+SRC006,OFFICIAL_PUBLIC,https://www.abes.ac.in/placement.html,Placement
+SRC007,OFFICIAL_PUBLIC,https://www.abes.ac.in/training.html,Training
+SRC008,DEMO_SYNTHETIC,teacher_seating_plan.csv,Cabin navigation prototype
+SRC009,DEMO_SYNTHETIC,fee_information.md,Fee retrieval testing

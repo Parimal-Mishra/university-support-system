@@ -1,0 +1,81 @@
+faculty_id,name,designation,department,data_status,source
+FAC001,Prof. (Dr.) Pankaj Kumar Sharma,Professor & Head,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC002,Dr. Neha Gupta,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC003,Dr. Shanu Sharma,Associate Professor & ACOE,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC004,Dr. Shruti Gupta,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC005,Dr. Somya Srivastava,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC006,Dr. Vipin Sharma,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC007,Dr. Anshika Agarwal,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC008,Mr. Akhilesh Kumar Srivastava,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC009,Mr. Varun Kumar,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC010,Dr. Shweta Roy,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC011,Dr. Vivek Srivastava,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC012,Mr. Deepak Kanojia,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC013,Mr. Sumit Agarwal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC014,Mr. Abhishek Kumar Shukla,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC015,Mr. Arvind Kumar,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC016,Ms. Kanchan Dixit,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC017,Ms. Pooja Singhal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC018,Mr. Anurag Gupta,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC019,Mr. Gaurav Vats,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC020,Ms. Madhvi Gaur,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC021,Mr. Devendra Kumar Misra,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC022,Ms. Laxmi Saraswat,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC023,Ms. Abhilasha Varshney,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC024,Mr. Vinay Singh,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC025,Ms. Sapna Jain,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC026,Ms. Malvika Gupta,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC027,Dr. Disha Mohini Pathak,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC028,Mr. Dhaneshwar Kumar,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC029,Mr. Praveen Kumar Rai,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC030,Mr. Vaibhav Ranjan,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC031,Mr. Vivek Kumar,Assistant Professor & ACOE,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC032,Mr. Aditya Tandon,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC033,Ms. Babli Kumari,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC034,Ms. Aditi Arora,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC035,Ms. Anita Rani,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC036,Ms. Sarita Yadav,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC037,Ms. Shweta Singh,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC038,Ms. Medha Malik,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC039,Ms. Sonia Lamba,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC040,Ms. Tanvi Shree,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC041,Mr. Chandrahas Mishra,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC042,Ms. Jyoti Sharma,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC043,Ms. Shivani Trivedi,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC044,Ms. Neha Gaur,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC045,Ms. Nidhi Yadav,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC046,Ms. Jasmine,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC047,Ms. Swati,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC048,Ms. Bharati Shukla,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC049,Ms. Yashi Rastogi,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC050,Ms. Harsiddhi Singhdev,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC051,Ms. Ayushi Agarwal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC052,Ms. Apoorva Singh,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC053,Ms. Ashtha Goyal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC054,Mr. Vikas Maurya,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC055,Ms. Shruti Agarwal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC056,Ms. Komal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC057,Mr. Abhishek Yadav,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC058,Mr. Sanghpriya Gautam,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC059,Mr. Vikky,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC060,Mr. Shashank Swaroop,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC061,Ms. Shruti Keshari,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC062,Mr. Mayank Mittal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC063,Ms. Tanushri,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC064,Ms. Mansi Mahendru,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC065,Ms. Nidhi Shalya,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC066,Mr. Abhishek Chaudhary,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC067,Ms. Akshita Sharma,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC068,Ms. Anuksha Srivastava,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC069,Ms. Ashi Agarwal,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC070,Ms. Shailja Varshney,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC071,Ms. Nainsi Jain,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC072,Mr. Ravi Sikka,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC073,Ms. Anshika Chaudhary,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC074,Ms. Beena Srivastava,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC075,Mr. Rahul Kumar,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC076,Mr. Arshad Ali,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC077,Ms. Divya Maheshwari,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC078,Pratik Singh,Assistant Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC079,Dr. Sandhya Avasthi,Associate Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html
+FAC080,Dr. Kadambri Agarwal,Professor,CSE,OFFICIAL_PUBLIC,https://www.abes.ac.in/computer-science-engineering.html

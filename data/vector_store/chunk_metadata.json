@@ -1,0 +1,3035 @@
+[
+  {
+    "vector_position": 0,
+    "chunk_id": "ACADEMICS_ACADEMIC_CALENDAR_MD_C001",
+    "text": "# ABES Academic Calendar\nCurrent session: 2026–27\nCurrent public calendar: 2026–27 Odd Semester\nOfficial calendar page: https://www.abes.ac.in/Academic-Calender.html\n\nDate-specific answers must retrieve the latest official calendar rather than relying on this index file.",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\academics\\academic_calendar.md",
+      "file_type": "markdown",
+      "document_id": "ACADEMICS_ACADEMIC_CALENDAR_MD",
+      "category": "academics",
+      "document_type": "ACADEMIC_INFORMATION",
+      "document_name": "academic_calendar.md",
+      "document_title": "Academic Calendar",
+      "relative_source": "academics\\academic_calendar.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "ACADEMICS_ACADEMIC_CALENDAR_MD_C001"
+    }
+  },
+  {
+    "vector_position": 1,
+    "chunk_id": "ACADEMICS_PROGRAMS_AND_DEPARTMENTS_MD_C001",
+    "text": "# ABES Programs\nCurrent public course page lists:\nB.Tech CSE — 900 seats\nB.Tech CSE (AI & ML) — 360\nB.Tech CSE (Data Science) — 180\nB.Tech ECE — 180\nB.Tech Electrical and Computer Engineering — 120\nB.Tech Mechanical Engineering — 60\nB.Tech CSE Working Professional — 30\nB.Tech ECE Working Professional — 30\nBCA — 120\nMCA — 180\nM.Tech CSE — 12\nM.Tech ECE — 6\n\nPublic department areas include CSE, CSE-AIML, CSE-DS, ECE, Electrical & Computer Engineering, Mechanical Engineering, Applied Sciences & Humanities, Information Technology and Computer Applications.\n\nSource: https://www.abes.ac.in/courses-offered.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\academics\\programs_and_departments.md",
+      "file_type": "markdown",
+      "document_id": "ACADEMICS_PROGRAMS_AND_DEPARTMENTS_MD",
+      "category": "academics",
+      "document_type": "ACADEMIC_INFORMATION",
+      "document_name": "programs_and_departments.md",
+      "document_title": "Programs And Departments",
+      "relative_source": "academics\\programs_and_departments.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "ACADEMICS_PROGRAMS_AND_DEPARTMENTS_MD_C001"
+    }
+  },
+  {
+    "vector_position": 2,
+    "chunk_id": "EXAMINATIONS_EXAMINATION_RULES_MD_C001",
+    "text": "# ABES Examination Knowledge\nThe official ABES circulars page publishes examination forms, examination schedules/guidelines, challenge evaluation, branch-change and other academic notices.\n\nOfficial source: https://www.abes.ac.in/circulars.html\n\nRAG rule:\nFor a date/deadline question, retrieve the latest applicable official circular. If two notices conflict, prefer the latest official notice applicable to the student's program/year. If applicability is uncertain, ask for program/year or route to the Examination Cell.",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\examinations\\examination_rules.md",
+      "file_type": "markdown",
+      "document_id": "EXAMINATIONS_EXAMINATION_RULES_MD",
+      "category": "examinations",
+      "document_type": "EXAMINATION_INFORMATION",
+      "document_name": "examination_rules.md",
+      "document_title": "Examination Rules",
+      "relative_source": "examinations\\examination_rules.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "EXAMINATIONS_EXAMINATION_RULES_MD_C001"
+    }
+  },
+  {
+    "vector_position": 3,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C001",
+    "text": "faculty_id: FAC001\nname: Prof. (Dr.) Pankaj Kumar Sharma\ndesignation: Professor & Head\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 1,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C001"
+    }
+  },
+  {
+    "vector_position": 4,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C002",
+    "text": "faculty_id: FAC002\nname: Dr. Neha Gupta\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 2,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C002"
+    }
+  },
+  {
+    "vector_position": 5,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C003",
+    "text": "faculty_id: FAC003\nname: Dr. Shanu Sharma\ndesignation: Associate Professor & ACOE\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 3,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C003"
+    }
+  },
+  {
+    "vector_position": 6,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C004",
+    "text": "faculty_id: FAC004\nname: Dr. Shruti Gupta\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 4,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C004"
+    }
+  },
+  {
+    "vector_position": 7,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C005",
+    "text": "faculty_id: FAC005\nname: Dr. Somya Srivastava\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 5,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C005"
+    }
+  },
+  {
+    "vector_position": 8,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C006",
+    "text": "faculty_id: FAC006\nname: Dr. Vipin Sharma\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 6,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C006"
+    }
+  },
+  {
+    "vector_position": 9,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C007",
+    "text": "faculty_id: FAC007\nname: Dr. Anshika Agarwal\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 7,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C007"
+    }
+  },
+  {
+    "vector_position": 10,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C008",
+    "text": "faculty_id: FAC008\nname: Mr. Akhilesh Kumar Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 8,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C008"
+    }
+  },
+  {
+    "vector_position": 11,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C009",
+    "text": "faculty_id: FAC009\nname: Mr. Varun Kumar\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 9,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C009"
+    }
+  },
+  {
+    "vector_position": 12,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C010",
+    "text": "faculty_id: FAC010\nname: Dr. Shweta Roy\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 10,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C010"
+    }
+  },
+  {
+    "vector_position": 13,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C011",
+    "text": "faculty_id: FAC011\nname: Dr. Vivek Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 11,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C011"
+    }
+  },
+  {
+    "vector_position": 14,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C012",
+    "text": "faculty_id: FAC012\nname: Mr. Deepak Kanojia\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 12,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C012"
+    }
+  },
+  {
+    "vector_position": 15,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C013",
+    "text": "faculty_id: FAC013\nname: Mr. Sumit Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 13,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C013"
+    }
+  },
+  {
+    "vector_position": 16,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C014",
+    "text": "faculty_id: FAC014\nname: Mr. Abhishek Kumar Shukla\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 14,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C014"
+    }
+  },
+  {
+    "vector_position": 17,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C015",
+    "text": "faculty_id: FAC015\nname: Mr. Arvind Kumar\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 15,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C015"
+    }
+  },
+  {
+    "vector_position": 18,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C016",
+    "text": "faculty_id: FAC016\nname: Ms. Kanchan Dixit\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 16,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C016"
+    }
+  },
+  {
+    "vector_position": 19,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C017",
+    "text": "faculty_id: FAC017\nname: Ms. Pooja Singhal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 17,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C017"
+    }
+  },
+  {
+    "vector_position": 20,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C018",
+    "text": "faculty_id: FAC018\nname: Mr. Anurag Gupta\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 18,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C018"
+    }
+  },
+  {
+    "vector_position": 21,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C019",
+    "text": "faculty_id: FAC019\nname: Mr. Gaurav Vats\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 19,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C019"
+    }
+  },
+  {
+    "vector_position": 22,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C020",
+    "text": "faculty_id: FAC020\nname: Ms. Madhvi Gaur\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 20,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C020"
+    }
+  },
+  {
+    "vector_position": 23,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C021",
+    "text": "faculty_id: FAC021\nname: Mr. Devendra Kumar Misra\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 21,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C021"
+    }
+  },
+  {
+    "vector_position": 24,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C022",
+    "text": "faculty_id: FAC022\nname: Ms. Laxmi Saraswat\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 22,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C022"
+    }
+  },
+  {
+    "vector_position": 25,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C023",
+    "text": "faculty_id: FAC023\nname: Ms. Abhilasha Varshney\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 23,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C023"
+    }
+  },
+  {
+    "vector_position": 26,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C024",
+    "text": "faculty_id: FAC024\nname: Mr. Vinay Singh\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 24,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C024"
+    }
+  },
+  {
+    "vector_position": 27,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C025",
+    "text": "faculty_id: FAC025\nname: Ms. Sapna Jain\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 25,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C025"
+    }
+  },
+  {
+    "vector_position": 28,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C026",
+    "text": "faculty_id: FAC026\nname: Ms. Malvika Gupta\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 26,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C026"
+    }
+  },
+  {
+    "vector_position": 29,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C027",
+    "text": "faculty_id: FAC027\nname: Dr. Disha Mohini Pathak\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 27,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C027"
+    }
+  },
+  {
+    "vector_position": 30,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C028",
+    "text": "faculty_id: FAC028\nname: Mr. Dhaneshwar Kumar\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 28,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C028"
+    }
+  },
+  {
+    "vector_position": 31,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C029",
+    "text": "faculty_id: FAC029\nname: Mr. Praveen Kumar Rai\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 29,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C029"
+    }
+  },
+  {
+    "vector_position": 32,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C030",
+    "text": "faculty_id: FAC030\nname: Mr. Vaibhav Ranjan\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 30,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C030"
+    }
+  },
+  {
+    "vector_position": 33,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C031",
+    "text": "faculty_id: FAC031\nname: Mr. Vivek Kumar\ndesignation: Assistant Professor & ACOE\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 31,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C031"
+    }
+  },
+  {
+    "vector_position": 34,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C032",
+    "text": "faculty_id: FAC032\nname: Mr. Aditya Tandon\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 32,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C032"
+    }
+  },
+  {
+    "vector_position": 35,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C033",
+    "text": "faculty_id: FAC033\nname: Ms. Babli Kumari\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 33,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C033"
+    }
+  },
+  {
+    "vector_position": 36,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C034",
+    "text": "faculty_id: FAC034\nname: Ms. Aditi Arora\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 34,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C034"
+    }
+  },
+  {
+    "vector_position": 37,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C035",
+    "text": "faculty_id: FAC035\nname: Ms. Anita Rani\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 35,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C035"
+    }
+  },
+  {
+    "vector_position": 38,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C036",
+    "text": "faculty_id: FAC036\nname: Ms. Sarita Yadav\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 36,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C036"
+    }
+  },
+  {
+    "vector_position": 39,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C037",
+    "text": "faculty_id: FAC037\nname: Ms. Shweta Singh\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 37,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C037"
+    }
+  },
+  {
+    "vector_position": 40,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C038",
+    "text": "faculty_id: FAC038\nname: Ms. Medha Malik\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 38,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C038"
+    }
+  },
+  {
+    "vector_position": 41,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C039",
+    "text": "faculty_id: FAC039\nname: Ms. Sonia Lamba\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 39,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C039"
+    }
+  },
+  {
+    "vector_position": 42,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C040",
+    "text": "faculty_id: FAC040\nname: Ms. Tanvi Shree\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 40,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C040"
+    }
+  },
+  {
+    "vector_position": 43,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C041",
+    "text": "faculty_id: FAC041\nname: Mr. Chandrahas Mishra\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 41,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C041"
+    }
+  },
+  {
+    "vector_position": 44,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C042",
+    "text": "faculty_id: FAC042\nname: Ms. Jyoti Sharma\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 42,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C042"
+    }
+  },
+  {
+    "vector_position": 45,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C043",
+    "text": "faculty_id: FAC043\nname: Ms. Shivani Trivedi\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 43,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C043"
+    }
+  },
+  {
+    "vector_position": 46,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C044",
+    "text": "faculty_id: FAC044\nname: Ms. Neha Gaur\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 44,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C044"
+    }
+  },
+  {
+    "vector_position": 47,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C045",
+    "text": "faculty_id: FAC045\nname: Ms. Nidhi Yadav\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 45,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C045"
+    }
+  },
+  {
+    "vector_position": 48,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C046",
+    "text": "faculty_id: FAC046\nname: Ms. Jasmine\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 46,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C046"
+    }
+  },
+  {
+    "vector_position": 49,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C047",
+    "text": "faculty_id: FAC047\nname: Ms. Swati\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 47,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C047"
+    }
+  },
+  {
+    "vector_position": 50,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C048",
+    "text": "faculty_id: FAC048\nname: Ms. Bharati Shukla\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 48,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C048"
+    }
+  },
+  {
+    "vector_position": 51,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C049",
+    "text": "faculty_id: FAC049\nname: Ms. Yashi Rastogi\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 49,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C049"
+    }
+  },
+  {
+    "vector_position": 52,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C050",
+    "text": "faculty_id: FAC050\nname: Ms. Harsiddhi Singhdev\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 50,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C050"
+    }
+  },
+  {
+    "vector_position": 53,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C051",
+    "text": "faculty_id: FAC051\nname: Ms. Ayushi Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 51,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C051"
+    }
+  },
+  {
+    "vector_position": 54,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C052",
+    "text": "faculty_id: FAC052\nname: Ms. Apoorva Singh\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 52,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C052"
+    }
+  },
+  {
+    "vector_position": 55,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C053",
+    "text": "faculty_id: FAC053\nname: Ms. Ashtha Goyal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 53,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C053"
+    }
+  },
+  {
+    "vector_position": 56,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C054",
+    "text": "faculty_id: FAC054\nname: Mr. Vikas Maurya\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 54,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C054"
+    }
+  },
+  {
+    "vector_position": 57,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C055",
+    "text": "faculty_id: FAC055\nname: Ms. Shruti Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 55,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C055"
+    }
+  },
+  {
+    "vector_position": 58,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C056",
+    "text": "faculty_id: FAC056\nname: Ms. Komal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 56,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C056"
+    }
+  },
+  {
+    "vector_position": 59,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C057",
+    "text": "faculty_id: FAC057\nname: Mr. Abhishek Yadav\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 57,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C057"
+    }
+  },
+  {
+    "vector_position": 60,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C058",
+    "text": "faculty_id: FAC058\nname: Mr. Sanghpriya Gautam\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 58,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C058"
+    }
+  },
+  {
+    "vector_position": 61,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C059",
+    "text": "faculty_id: FAC059\nname: Mr. Vikky\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 59,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C059"
+    }
+  },
+  {
+    "vector_position": 62,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C060",
+    "text": "faculty_id: FAC060\nname: Mr. Shashank Swaroop\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 60,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C060"
+    }
+  },
+  {
+    "vector_position": 63,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C061",
+    "text": "faculty_id: FAC061\nname: Ms. Shruti Keshari\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 61,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C061"
+    }
+  },
+  {
+    "vector_position": 64,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C062",
+    "text": "faculty_id: FAC062\nname: Mr. Mayank Mittal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 62,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C062"
+    }
+  },
+  {
+    "vector_position": 65,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C063",
+    "text": "faculty_id: FAC063\nname: Ms. Tanushri\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 63,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C063"
+    }
+  },
+  {
+    "vector_position": 66,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C064",
+    "text": "faculty_id: FAC064\nname: Ms. Mansi Mahendru\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 64,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C064"
+    }
+  },
+  {
+    "vector_position": 67,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C065",
+    "text": "faculty_id: FAC065\nname: Ms. Nidhi Shalya\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 65,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C065"
+    }
+  },
+  {
+    "vector_position": 68,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C066",
+    "text": "faculty_id: FAC066\nname: Mr. Abhishek Chaudhary\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 66,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C066"
+    }
+  },
+  {
+    "vector_position": 69,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C067",
+    "text": "faculty_id: FAC067\nname: Ms. Akshita Sharma\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 67,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C067"
+    }
+  },
+  {
+    "vector_position": 70,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C068",
+    "text": "faculty_id: FAC068\nname: Ms. Anuksha Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 68,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C068"
+    }
+  },
+  {
+    "vector_position": 71,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C069",
+    "text": "faculty_id: FAC069\nname: Ms. Ashi Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 69,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C069"
+    }
+  },
+  {
+    "vector_position": 72,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C070",
+    "text": "faculty_id: FAC070\nname: Ms. Shailja Varshney\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 70,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C070"
+    }
+  },
+  {
+    "vector_position": 73,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C071",
+    "text": "faculty_id: FAC071\nname: Ms. Nainsi Jain\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 71,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C071"
+    }
+  },
+  {
+    "vector_position": 74,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C072",
+    "text": "faculty_id: FAC072\nname: Mr. Ravi Sikka\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 72,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C072"
+    }
+  },
+  {
+    "vector_position": 75,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C073",
+    "text": "faculty_id: FAC073\nname: Ms. Anshika Chaudhary\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 73,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C073"
+    }
+  },
+  {
+    "vector_position": 76,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C074",
+    "text": "faculty_id: FAC074\nname: Ms. Beena Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 74,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C074"
+    }
+  },
+  {
+    "vector_position": 77,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C075",
+    "text": "faculty_id: FAC075\nname: Mr. Rahul Kumar\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 75,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C075"
+    }
+  },
+  {
+    "vector_position": 78,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C076",
+    "text": "faculty_id: FAC076\nname: Mr. Arshad Ali\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 76,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C076"
+    }
+  },
+  {
+    "vector_position": 79,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C077",
+    "text": "faculty_id: FAC077\nname: Ms. Divya Maheshwari\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 77,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C077"
+    }
+  },
+  {
+    "vector_position": 80,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C078",
+    "text": "faculty_id: FAC078\nname: Pratik Singh\ndesignation: Assistant Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 78,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C078"
+    }
+  },
+  {
+    "vector_position": 81,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C079",
+    "text": "faculty_id: FAC079\nname: Dr. Sandhya Avasthi\ndesignation: Associate Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 79,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C079"
+    }
+  },
+  {
+    "vector_position": 82,
+    "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C080",
+    "text": "faculty_id: FAC080\nname: Dr. Kadambri Agarwal\ndesignation: Professor\ndepartment: CSE\ndata_status: OFFICIAL_PUBLIC\nsource: https://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\faculty_directory.csv",
+      "file_type": "csv",
+      "row": 80,
+      "document_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "faculty_directory.csv",
+      "document_title": "Faculty Directory",
+      "relative_source": "faculty_navigation\\faculty_directory.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_FACULTY_DIRECTORY_CSV_C080"
+    }
+  },
+  {
+    "vector_position": 83,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C001",
+    "text": "faculty_id: FAC001\nname: Prof. (Dr.) Pankaj Kumar Sharma\ndesignation: Professor & Head\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-200\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 1,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C001"
+    }
+  },
+  {
+    "vector_position": 84,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C002",
+    "text": "faculty_id: FAC002\nname: Dr. Neha Gupta\ndesignation: Associate Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-201\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 2,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C002"
+    }
+  },
+  {
+    "vector_position": 85,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C003",
+    "text": "faculty_id: FAC003\nname: Dr. Shanu Sharma\ndesignation: Associate Professor & ACOE\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-202\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 3,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C003"
+    }
+  },
+  {
+    "vector_position": 86,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C004",
+    "text": "faculty_id: FAC004\nname: Dr. Shruti Gupta\ndesignation: Associate Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-203\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 4,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C004"
+    }
+  },
+  {
+    "vector_position": 87,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C005",
+    "text": "faculty_id: FAC005\nname: Dr. Somya Srivastava\ndesignation: Associate Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-204\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 5,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C005"
+    }
+  },
+  {
+    "vector_position": 88,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C006",
+    "text": "faculty_id: FAC006\nname: Dr. Vipin Sharma\ndesignation: Associate Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-205\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 6,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C006"
+    }
+  },
+  {
+    "vector_position": 89,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C007",
+    "text": "faculty_id: FAC007\nname: Dr. Anshika Agarwal\ndesignation: Associate Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-206\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 7,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C007"
+    }
+  },
+  {
+    "vector_position": 90,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C008",
+    "text": "faculty_id: FAC008\nname: Mr. Akhilesh Kumar Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-207\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 8,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C008"
+    }
+  },
+  {
+    "vector_position": 91,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C009",
+    "text": "faculty_id: FAC009\nname: Mr. Varun Kumar\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-208\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 9,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C009"
+    }
+  },
+  {
+    "vector_position": 92,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C010",
+    "text": "faculty_id: FAC010\nname: Dr. Shweta Roy\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-209\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 10,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C010"
+    }
+  },
+  {
+    "vector_position": 93,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C011",
+    "text": "faculty_id: FAC011\nname: Dr. Vivek Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-210\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 11,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C011"
+    }
+  },
+  {
+    "vector_position": 94,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C012",
+    "text": "faculty_id: FAC012\nname: Mr. Deepak Kanojia\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-211\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 12,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C012"
+    }
+  },
+  {
+    "vector_position": 95,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C013",
+    "text": "faculty_id: FAC013\nname: Mr. Sumit Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-212\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 13,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C013"
+    }
+  },
+  {
+    "vector_position": 96,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C014",
+    "text": "faculty_id: FAC014\nname: Mr. Abhishek Kumar Shukla\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-213\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 14,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C014"
+    }
+  },
+  {
+    "vector_position": 97,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C015",
+    "text": "faculty_id: FAC015\nname: Mr. Arvind Kumar\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-214\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 15,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C015"
+    }
+  },
+  {
+    "vector_position": 98,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C016",
+    "text": "faculty_id: FAC016\nname: Ms. Kanchan Dixit\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-215\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 16,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C016"
+    }
+  },
+  {
+    "vector_position": 99,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C017",
+    "text": "faculty_id: FAC017\nname: Ms. Pooja Singhal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-216\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 17,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C017"
+    }
+  },
+  {
+    "vector_position": 100,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C018",
+    "text": "faculty_id: FAC018\nname: Mr. Anurag Gupta\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-217\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 18,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C018"
+    }
+  },
+  {
+    "vector_position": 101,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C019",
+    "text": "faculty_id: FAC019\nname: Mr. Gaurav Vats\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 1\ncabin: CAB-218\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 19,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C019"
+    }
+  },
+  {
+    "vector_position": 102,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C020",
+    "text": "faculty_id: FAC020\nname: Ms. Madhvi Gaur\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 1\ncabin: CAB-219\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 20,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C020"
+    }
+  },
+  {
+    "vector_position": 103,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C021",
+    "text": "faculty_id: FAC021\nname: Mr. Devendra Kumar Misra\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-300\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 21,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C021"
+    }
+  },
+  {
+    "vector_position": 104,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C022",
+    "text": "faculty_id: FAC022\nname: Ms. Laxmi Saraswat\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-301\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 22,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C022"
+    }
+  },
+  {
+    "vector_position": 105,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C023",
+    "text": "faculty_id: FAC023\nname: Ms. Abhilasha Varshney\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-302\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 23,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C023"
+    }
+  },
+  {
+    "vector_position": 106,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C024",
+    "text": "faculty_id: FAC024\nname: Mr. Vinay Singh\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-303\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 24,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C024"
+    }
+  },
+  {
+    "vector_position": 107,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C025",
+    "text": "faculty_id: FAC025\nname: Ms. Sapna Jain\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-304\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 25,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C025"
+    }
+  },
+  {
+    "vector_position": 108,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C026",
+    "text": "faculty_id: FAC026\nname: Ms. Malvika Gupta\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-305\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 26,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C026"
+    }
+  },
+  {
+    "vector_position": 109,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C027",
+    "text": "faculty_id: FAC027\nname: Dr. Disha Mohini Pathak\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-306\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 27,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C027"
+    }
+  },
+  {
+    "vector_position": 110,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C028",
+    "text": "faculty_id: FAC028\nname: Mr. Dhaneshwar Kumar\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-307\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 28,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C028"
+    }
+  },
+  {
+    "vector_position": 111,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C029",
+    "text": "faculty_id: FAC029\nname: Mr. Praveen Kumar Rai\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-308\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 29,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C029"
+    }
+  },
+  {
+    "vector_position": 112,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C030",
+    "text": "faculty_id: FAC030\nname: Mr. Vaibhav Ranjan\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-309\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 30,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C030"
+    }
+  },
+  {
+    "vector_position": 113,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C031",
+    "text": "faculty_id: FAC031\nname: Mr. Vivek Kumar\ndesignation: Assistant Professor & ACOE\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-310\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 31,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C031"
+    }
+  },
+  {
+    "vector_position": 114,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C032",
+    "text": "faculty_id: FAC032\nname: Mr. Aditya Tandon\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-311\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 32,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C032"
+    }
+  },
+  {
+    "vector_position": 115,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C033",
+    "text": "faculty_id: FAC033\nname: Ms. Babli Kumari\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-312\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 33,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C033"
+    }
+  },
+  {
+    "vector_position": 116,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C034",
+    "text": "faculty_id: FAC034\nname: Ms. Aditi Arora\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-313\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 34,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C034"
+    }
+  },
+  {
+    "vector_position": 117,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C035",
+    "text": "faculty_id: FAC035\nname: Ms. Anita Rani\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-314\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 35,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C035"
+    }
+  },
+  {
+    "vector_position": 118,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C036",
+    "text": "faculty_id: FAC036\nname: Ms. Sarita Yadav\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-315\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 36,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C036"
+    }
+  },
+  {
+    "vector_position": 119,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C037",
+    "text": "faculty_id: FAC037\nname: Ms. Shweta Singh\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-316\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 37,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C037"
+    }
+  },
+  {
+    "vector_position": 120,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C038",
+    "text": "faculty_id: FAC038\nname: Ms. Medha Malik\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-317\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 38,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C038"
+    }
+  },
+  {
+    "vector_position": 121,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C039",
+    "text": "faculty_id: FAC039\nname: Ms. Sonia Lamba\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 2\ncabin: CAB-318\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 39,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C039"
+    }
+  },
+  {
+    "vector_position": 122,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C040",
+    "text": "faculty_id: FAC040\nname: Ms. Tanvi Shree\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 2\ncabin: CAB-319\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 40,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C040"
+    }
+  },
+  {
+    "vector_position": 123,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C041",
+    "text": "faculty_id: FAC041\nname: Mr. Chandrahas Mishra\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-400\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 41,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C041"
+    }
+  },
+  {
+    "vector_position": 124,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C042",
+    "text": "faculty_id: FAC042\nname: Ms. Jyoti Sharma\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-401\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 42,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C042"
+    }
+  },
+  {
+    "vector_position": 125,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C043",
+    "text": "faculty_id: FAC043\nname: Ms. Shivani Trivedi\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-402\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 43,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C043"
+    }
+  },
+  {
+    "vector_position": 126,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C044",
+    "text": "faculty_id: FAC044\nname: Ms. Neha Gaur\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-403\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 44,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C044"
+    }
+  },
+  {
+    "vector_position": 127,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C045",
+    "text": "faculty_id: FAC045\nname: Ms. Nidhi Yadav\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-404\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 45,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C045"
+    }
+  },
+  {
+    "vector_position": 128,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C046",
+    "text": "faculty_id: FAC046\nname: Ms. Jasmine\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-405\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 46,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C046"
+    }
+  },
+  {
+    "vector_position": 129,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C047",
+    "text": "faculty_id: FAC047\nname: Ms. Swati\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-406\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 47,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C047"
+    }
+  },
+  {
+    "vector_position": 130,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C048",
+    "text": "faculty_id: FAC048\nname: Ms. Bharati Shukla\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-407\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 48,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C048"
+    }
+  },
+  {
+    "vector_position": 131,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C049",
+    "text": "faculty_id: FAC049\nname: Ms. Yashi Rastogi\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-408\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 49,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C049"
+    }
+  },
+  {
+    "vector_position": 132,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C050",
+    "text": "faculty_id: FAC050\nname: Ms. Harsiddhi Singhdev\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-409\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 50,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C050"
+    }
+  },
+  {
+    "vector_position": 133,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C051",
+    "text": "faculty_id: FAC051\nname: Ms. Ayushi Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-410\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 51,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C051"
+    }
+  },
+  {
+    "vector_position": 134,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C052",
+    "text": "faculty_id: FAC052\nname: Ms. Apoorva Singh\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-411\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 52,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C052"
+    }
+  },
+  {
+    "vector_position": 135,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C053",
+    "text": "faculty_id: FAC053\nname: Ms. Ashtha Goyal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-412\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 53,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C053"
+    }
+  },
+  {
+    "vector_position": 136,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C054",
+    "text": "faculty_id: FAC054\nname: Mr. Vikas Maurya\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-413\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 54,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C054"
+    }
+  },
+  {
+    "vector_position": 137,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C055",
+    "text": "faculty_id: FAC055\nname: Ms. Shruti Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-414\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 55,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C055"
+    }
+  },
+  {
+    "vector_position": 138,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C056",
+    "text": "faculty_id: FAC056\nname: Ms. Komal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-415\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 56,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C056"
+    }
+  },
+  {
+    "vector_position": 139,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C057",
+    "text": "faculty_id: FAC057\nname: Mr. Abhishek Yadav\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-416\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 57,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C057"
+    }
+  },
+  {
+    "vector_position": 140,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C058",
+    "text": "faculty_id: FAC058\nname: Mr. Sanghpriya Gautam\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-417\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 58,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C058"
+    }
+  },
+  {
+    "vector_position": 141,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C059",
+    "text": "faculty_id: FAC059\nname: Mr. Vikky\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 3\ncabin: CAB-418\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 59,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C059"
+    }
+  },
+  {
+    "vector_position": 142,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C060",
+    "text": "faculty_id: FAC060\nname: Mr. Shashank Swaroop\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 3\ncabin: CAB-419\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 60,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C060"
+    }
+  },
+  {
+    "vector_position": 143,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C061",
+    "text": "faculty_id: FAC061\nname: Ms. Shruti Keshari\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-500\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 61,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C061"
+    }
+  },
+  {
+    "vector_position": 144,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C062",
+    "text": "faculty_id: FAC062\nname: Mr. Mayank Mittal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-501\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 62,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C062"
+    }
+  },
+  {
+    "vector_position": 145,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C063",
+    "text": "faculty_id: FAC063\nname: Ms. Tanushri\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-502\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 63,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C063"
+    }
+  },
+  {
+    "vector_position": 146,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C064",
+    "text": "faculty_id: FAC064\nname: Ms. Mansi Mahendru\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-503\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 64,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C064"
+    }
+  },
+  {
+    "vector_position": 147,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C065",
+    "text": "faculty_id: FAC065\nname: Ms. Nidhi Shalya\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-504\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 65,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C065"
+    }
+  },
+  {
+    "vector_position": 148,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C066",
+    "text": "faculty_id: FAC066\nname: Mr. Abhishek Chaudhary\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-505\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 66,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C066"
+    }
+  },
+  {
+    "vector_position": 149,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C067",
+    "text": "faculty_id: FAC067\nname: Ms. Akshita Sharma\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-506\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 67,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C067"
+    }
+  },
+  {
+    "vector_position": 150,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C068",
+    "text": "faculty_id: FAC068\nname: Ms. Anuksha Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-507\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 68,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C068"
+    }
+  },
+  {
+    "vector_position": 151,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C069",
+    "text": "faculty_id: FAC069\nname: Ms. Ashi Agarwal\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-508\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 69,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C069"
+    }
+  },
+  {
+    "vector_position": 152,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C070",
+    "text": "faculty_id: FAC070\nname: Ms. Shailja Varshney\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-509\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 70,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C070"
+    }
+  },
+  {
+    "vector_position": 153,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C071",
+    "text": "faculty_id: FAC071\nname: Ms. Nainsi Jain\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-510\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 71,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C071"
+    }
+  },
+  {
+    "vector_position": 154,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C072",
+    "text": "faculty_id: FAC072\nname: Mr. Ravi Sikka\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-511\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 72,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C072"
+    }
+  },
+  {
+    "vector_position": 155,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C073",
+    "text": "faculty_id: FAC073\nname: Ms. Anshika Chaudhary\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-512\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 73,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C073"
+    }
+  },
+  {
+    "vector_position": 156,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C074",
+    "text": "faculty_id: FAC074\nname: Ms. Beena Srivastava\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-513\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 74,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C074"
+    }
+  },
+  {
+    "vector_position": 157,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C075",
+    "text": "faculty_id: FAC075\nname: Mr. Rahul Kumar\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-514\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 75,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C075"
+    }
+  },
+  {
+    "vector_position": 158,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C076",
+    "text": "faculty_id: FAC076\nname: Mr. Arshad Ali\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-515\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 76,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C076"
+    }
+  },
+  {
+    "vector_position": 159,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C077",
+    "text": "faculty_id: FAC077\nname: Ms. Divya Maheshwari\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-516\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 77,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C077"
+    }
+  },
+  {
+    "vector_position": 160,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C078",
+    "text": "faculty_id: FAC078\nname: Pratik Singh\ndesignation: Assistant Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-517\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 78,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C078"
+    }
+  },
+  {
+    "vector_position": 161,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C079",
+    "text": "faculty_id: FAC079\nname: Dr. Sandhya Avasthi\ndesignation: Associate Professor\ndepartment: CSE\nblock: Aryabhatta Block\nfloor: 4\ncabin: CAB-518\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Aryabhatta Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 79,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C079"
+    }
+  },
+  {
+    "vector_position": 162,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C080",
+    "text": "faculty_id: FAC080\nname: Dr. Kadambri Agarwal\ndesignation: Professor\ndepartment: CSE\nblock: Bhabha Block\nfloor: 4\ncabin: CAB-519\noffice_hours: 10:00 AM–4:00 PM\nappointment_required: No\nlandmark: Bhabha Block faculty corridor\nlocation_status: DEMO_SYNTHETIC\nsource: Synthetic prototype — replace with approved ABES map",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.csv",
+      "file_type": "csv",
+      "row": 80,
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.csv",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.csv",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_CSV_C080"
+    }
+  },
+  {
+    "vector_position": 163,
+    "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_MD_C001",
+    "text": "# ABES Teacher Seating / Cabin Directory\nPurpose: let students ask where a teacher is located.\n\nFaculty names/designations: OFFICIAL_PUBLIC, sourced from the ABES CSE faculty page.\nCabin assignments: DEMO_SYNTHETIC. The public source does not provide an authoritative cabin map.\n\nProduction response must expose the location_status field. Synthetic locations must never be represented as real ABES navigation.\n\nOfficial faculty source:\nhttps://www.abes.ac.in/computer-science-engineering.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\faculty_navigation\\teacher_seating_plan.md",
+      "file_type": "markdown",
+      "document_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_MD",
+      "category": "faculty_navigation",
+      "document_type": "FACULTY_NAVIGATION",
+      "document_name": "teacher_seating_plan.md",
+      "document_title": "Teacher Seating Plan",
+      "relative_source": "faculty_navigation\\teacher_seating_plan.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FACULTY_NAVIGATION_TEACHER_SEATING_PLAN_MD_C001"
+    }
+  },
+  {
+    "vector_position": 164,
+    "chunk_id": "FEES_FEE_INFORMATION_MD_C001",
+    "text": "# ABES Fee Knowledge\nOfficial fee source: https://www.abes.ac.in/courses-offered.html\nAdmissions source: https://admission.abes.ac.in/\n\nDEMO ONLY — NOT OFFICIAL ABES FEES:\nB.Tech annual academic fee: INR 1,45,000\nHostel annual fee: INR 1,10,000\nExamination fee per semester: INR 2,500\nTransport annual fee: INR 28,000\n\nThese numbers exist only for RAG testing. Never present them as current ABES fees. Student-specific balances must come from an authorized read-only student-record integration.",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\fees\\fee_information.md",
+      "file_type": "markdown",
+      "document_id": "FEES_FEE_INFORMATION_MD",
+      "category": "fees",
+      "document_type": "FEES_INFORMATION",
+      "document_name": "fee_information.md",
+      "document_title": "Fee Information",
+      "relative_source": "fees\\fee_information.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "FEES_FEE_INFORMATION_MD_C001"
+    }
+  },
+  {
+    "vector_position": 165,
+    "chunk_id": "POLICIES_NOTICES_CURRENT_NOTICES_MD_C001",
+    "text": "# ABES Current Public Notices — 30 September 2026\nRecent notices visible on the official circulars page:\n- Central Government Scholarship renewal/fresh applications 2026–27 — 29 Aug 2026\n- Change of Branch for Session 2026–27 — 17 Aug 2026\n- Academic Bank of Credits ID creation — 8 Aug 2026\n- Challenge Evaluation Stage-I & II, Even Semester 2025–26 — 19 Jun 2026\n\nOfficial source: https://www.abes.ac.in/circulars.html\n\nAlways retrieve the live official notice before giving a time-sensitive answer.",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\policies_notices\\current_notices.md",
+      "file_type": "markdown",
+      "document_id": "POLICIES_NOTICES_CURRENT_NOTICES_MD",
+      "category": "policies_notices",
+      "document_type": "POLICY_OR_NOTICE",
+      "document_name": "current_notices.md",
+      "document_title": "Current Notices",
+      "relative_source": "policies_notices\\current_notices.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "POLICIES_NOTICES_CURRENT_NOTICES_MD_C001"
+    }
+  },
+  {
+    "vector_position": 166,
+    "chunk_id": "POLICIES_NOTICES_GENERAL_STUDENT_POLICIES_MD_C001",
+    "text": "# ABES Policy Index\nPublic ABES resources include:\n- Hostel Rule Booklet\n- Refund Policy\n- College Policy\n- Grievance Redressal Portal\n- Anti-Ragging compliance notices\n- Equal Opportunity Facilities Cell\n- Student request forms\n- No-Dues services\n- Mandatory disclosures\n\nSensitive policy decisions must be grounded in the applicable current official document and should not be invented by the LLM.",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\policies_notices\\general_student_policies.md",
+      "file_type": "markdown",
+      "document_id": "POLICIES_NOTICES_GENERAL_STUDENT_POLICIES_MD",
+      "category": "policies_notices",
+      "document_type": "POLICY_OR_NOTICE",
+      "document_name": "general_student_policies.md",
+      "document_title": "General Student Policies",
+      "relative_source": "policies_notices\\general_student_policies.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "POLICIES_NOTICES_GENERAL_STUDENT_POLICIES_MD_C001"
+    }
+  },
+  {
+    "vector_position": 167,
+    "chunk_id": "STUDENT_SERVICES_STUDENT_SERVICES_DIRECTORY_MD_C001",
+    "text": "# ABES Student Services\nMain address: 19th KM Stone, NH-09, Ghaziabad, Uttar Pradesh 201009\nPhone: 0120-7135112\nEmail: info@abes.ac.in\n\nCirculars/Notices: https://www.abes.ac.in/circulars.html\nAcademic Calendar: https://www.abes.ac.in/Academic-Calender.html\n\nCorporate Relations / CCPD:\nMs. Nidhi S. Mittal — Director-CCPD — director.ccpd@abes.ac.in\nMs. Upasana Tiwari Awasthi — Head-CCPD — upasana.ccpd@abes.ac.in\nMr. Sanjeev Srivastava — sanjeev@abes.ac.in\nMr. Vivek Kumar Singh — vivek.singh@abes.ac.in\nMr. Chandra Kant Dutta — chandrakant.dutta@abes.ac.in\nMr. Prem Prabhaker — prem.prabhaker@abes.ac.in\n\nTraining services publicly include MERN, DSA, employability enhancement, placement preparation, career counselling, department training and special training.\n\nSource: https://www.abes.ac.in/placement.html\nTraining: https://www.abes.ac.in/training.html",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\student_services\\student_services_directory.md",
+      "file_type": "markdown",
+      "document_id": "STUDENT_SERVICES_STUDENT_SERVICES_DIRECTORY_MD",
+      "category": "student_services",
+      "document_type": "STUDENT_SERVICES",
+      "document_name": "student_services_directory.md",
+      "document_title": "Student Services Directory",
+      "relative_source": "student_services\\student_services_directory.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "STUDENT_SERVICES_STUDENT_SERVICES_DIRECTORY_MD_C001"
+    }
+  },
+  {
+    "vector_position": 168,
+    "chunk_id": "UNIVERSITY_UNIVERSITY_OVERVIEW_MD_C001",
+    "text": "# ABES Engineering College — Overview\nName: ABES Engineering College\nAddress: 19th KM Stone, NH-09, Ghaziabad, Uttar Pradesh 201009, India\nPhone: 0120-7135112\nEmail: info@abes.ac.in\nCollege Code: 032\nAffiliation: Dr. APJ Abdul Kalam Technical University, Uttar Pradesh\nAutonomous status: Current ABES admissions site states Autonomous College since 2025.\n\nPublic admissions snapshot:\nStudents in campus: 8090\nAlumni worldwide: 24000+\nStartups incubated: 54\nCampus: 15.77 acres\nPlacement 2025 offers: 1692\nHighest package shown for 2025: 60 LPA\n\nSource: https://admission.abes.ac.in/",
+    "metadata": {
+      "source": "C:\\Users\\HP\\OneDrive\\Desktop\\university-support-system\\data\\raw\\ABES_RAG_Knowledge_Base_2026\\university\\university_overview.md",
+      "file_type": "markdown",
+      "document_id": "UNIVERSITY_UNIVERSITY_OVERVIEW_MD",
+      "category": "university",
+      "document_type": "UNIVERSITY_INFORMATION",
+      "document_name": "university_overview.md",
+      "document_title": "University Overview",
+      "relative_source": "university\\university_overview.md",
+      "knowledge_status": "OFFICIAL_PUBLIC",
+      "chunk_id": "UNIVERSITY_UNIVERSITY_OVERVIEW_MD_C001"
+    }
+  }
+]
